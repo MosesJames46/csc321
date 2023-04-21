@@ -37,9 +37,8 @@ def weather_work():
     open_file('python WeatherUpdateClient.py')
 def tcp_dump():
     open_file('tcpdump')
-# vent_work()
+vent_work()
 # net_stat()
-# weather_work()
+weather_work()
 # tcp_dump()
 
-run_cmd(r'cd C:\Users\Moses James\Documents\GitHub\csc321')
